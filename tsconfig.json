@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "sourceMap": true,
+    "sourceRoot": "./src",
+    "outFile": "./dist/app.js",
+    "incremental": true,
+
+    "strict": true,
+    "alwaysStrict": true
+  }
+}
