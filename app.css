@@ -3,5 +3,5 @@ canvas {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  border: 1px dashed rgba(255, 0, 255, 0.25);
+  /* border: 1px dashed rgba(255, 0, 255, 0.25); */
 }
